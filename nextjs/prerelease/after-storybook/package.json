@@ -11,7 +11,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "next": "15.0.0-canary.115",
+    "next": "15.0.0",
     "react": "19.0.0-rc-187dd6a7-20240806",
     "react-dom": "19.0.0-rc-187dd6a7-20240806"
   },
