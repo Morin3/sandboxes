@@ -25,7 +25,7 @@
     "react-dom": "^18.2.0",
     "storybook": "^8.0.0-alpha.0",
     "terser": "^5.14.2",
-    "vite": "^3.0.2"
+    "vite": "^4.5.14"
   },
   "resolutions": {
     "@storybook/addon-a11y": "8.0.0-alpha.0",
