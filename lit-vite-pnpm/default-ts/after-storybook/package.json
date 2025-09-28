@@ -23,7 +23,7 @@
     "react-dom": "^18.2.0",
     "storybook": "^7.4.0-alpha.0",
     "typescript": "^5.0.2",
-    "vite": "^4.4.5"
+    "vite": "^5.4.20"
   },
   "pnpm": {
     "overrides": {
