@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.0-rc.0",
-    "@angular/cli": "^18.2.0-rc.0",
+    "@angular/cli": "^19.0.0",
     "@angular/compiler-cli": "^18.2.0-next.0",
     "@chromatic-com/storybook": "^1.6.1",
     "@compodoc/compodoc": "^1.1.25",
